@@ -1,0 +1,1180 @@
+{
+  "rows": [
+    "ULTRA#EBBS#LPGA",
+    "NANCI#VIEW#ELON",
+    "IFEAR#ESTE#NEON",
+    "OFF#MENSHEVIK##",
+    "NYC#ANT##TINHAT",
+    "###GIN#BLOC#ALU",
+    "REVOLUTION#ONED",
+    "AVIV#IAGO##POXY",
+    "SANTA#BOLSHEVIK",
+    "TDD#GSIX#LAD###",
+    "AEIOUY##CUN#OOP",
+    "##CLASSSTRUGGLE",
+    "JEAN#TATR#KIDDO",
+    "PATE#EVIL#ALEAN",
+    "GREY#MARX#HANDS"
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "direction": "across",
+      "cells": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "clue": "___-leftism, the subject of a famous Lenin polemic",
+      "answer": "ULTRA",
+      "theme": true
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "cells": [
+        0,
+        15,
+        30,
+        45,
+        60
+      ],
+      "clue": "T: 🎵 The __ makes us strong! 🎵",
+      "answer": "UNION",
+      "theme": true
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "cells": [
+        1,
+        16,
+        31,
+        46,
+        61
+      ],
+      "clue": "__ Taffy",
+      "answer": "LAFFY",
+      "theme": false
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "cells": [
+        2,
+        17,
+        32,
+        47,
+        62
+      ],
+      "clue": "Freebee: TNEFC",
+      "answer": "TNEFC",
+      "theme": false
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "cells": [
+        3,
+        18,
+        33
+      ],
+      "clue": "The American Section of the RCI",
+      "answer": "RCA",
+      "theme": true
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "cells": [
+        4,
+        19,
+        34,
+        49,
+        64,
+        79,
+        94
+      ],
+      "clue": "Letters sent via plane",
+      "answer": "AIRMAIL",
+      "theme": false
+    },
+    {
+      "number": 6,
+      "direction": "across",
+      "cells": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "clue": "“It ___ and flows” (common idiom)",
+      "answer": "EBBS",
+      "theme": false
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "cells": [
+        6,
+        21,
+        36,
+        51,
+        66
+      ],
+      "clue": "It raises class consciousness, especially when you say it thrice, according to Ted Grant.",
+      "answer": "EVENT",
+      "theme": true
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "cells": [
+        7,
+        22,
+        37,
+        52
+      ],
+      "clue": "Daniel, mayor of Evanston and 2026 congressional nominee",
+      "answer": "BISS",
+      "theme": false
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "cells": [
+        8,
+        23,
+        38,
+        53
+      ],
+      "clue": "Liz, by another name?",
+      "answer": "BETH",
+      "theme": false
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "cells": [
+        9,
+        24,
+        39,
+        54,
+        69,
+        84,
+        99
+      ],
+      "clue": "Smitten with, quaintly",
+      "answer": "SWEETON",
+      "theme": false
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "cells": [
+        11,
+        12,
+        13,
+        14
+      ],
+      "clue": "Women’s golf grp.",
+      "answer": "LPGA",
+      "theme": false
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "cells": [
+        11,
+        26,
+        41,
+        56,
+        71
+      ],
+      "clue": "The man who knew what was to be done?",
+      "answer": "LENIN",
+      "theme": true
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "cells": [
+        12,
+        27,
+        42,
+        57,
+        72,
+        87,
+        102,
+        117,
+        132
+      ],
+      "clue": "The father of Russian Marxism",
+      "answer": "PLEKHANOV",
+      "theme": true
+    },
+    {
+      "number": 12,
+      "direction": "down",
+      "cells": [
+        13,
+        28,
+        43
+      ],
+      "clue": "Slime",
+      "answer": "GOO",
+      "theme": false
+    },
+    {
+      "number": 13,
+      "direction": "down",
+      "cells": [
+        14,
+        29,
+        44
+      ],
+      "clue": "__ Arbor, Michigan",
+      "answer": "ANN",
+      "theme": false
+    },
+    {
+      "number": 14,
+      "direction": "across",
+      "cells": [
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "clue": "Griffith, ‘80s American folk singer/guitarist",
+      "answer": "NANCI",
+      "theme": false
+    },
+    {
+      "number": 15,
+      "direction": "across",
+      "cells": [
+        21,
+        22,
+        23,
+        24
+      ],
+      "clue": "Marxists take the long __ of history",
+      "answer": "VIEW",
+      "theme": true
+    },
+    {
+      "number": 16,
+      "direction": "across",
+      "cells": [
+        26,
+        27,
+        28,
+        29
+      ],
+      "clue": "He better hope he makes it to Mars before the dictatorship of the proletariat gets to him.",
+      "answer": "ELON",
+      "theme": true
+    },
+    {
+      "number": 17,
+      "direction": "across",
+      "cells": [
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "clue": "Lead-in to a harsh truth, in Gen Z speak",
+      "answer": "IFEAR",
+      "theme": false
+    },
+    {
+      "number": 18,
+      "direction": "across",
+      "cells": [
+        36,
+        37,
+        38,
+        39
+      ],
+      "clue": "“This” in Spanish",
+      "answer": "ESTE",
+      "theme": false
+    },
+    {
+      "number": 19,
+      "direction": "across",
+      "cells": [
+        41,
+        42,
+        43,
+        44
+      ],
+      "clue": "Element that lights up signs",
+      "answer": "NEON",
+      "theme": false
+    },
+    {
+      "number": 20,
+      "direction": "across",
+      "cells": [
+        45,
+        46,
+        47
+      ],
+      "clue": "Not on",
+      "answer": "OFF",
+      "theme": false
+    },
+    {
+      "number": 21,
+      "direction": "across",
+      "cells": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "clue": "A “revolutionary” in the minority?",
+      "answer": "MENSHEVIK",
+      "theme": true
+    },
+    {
+      "number": 22,
+      "direction": "down",
+      "cells": [
+        50,
+        65,
+        80,
+        95,
+        110
+      ],
+      "clue": "A sense of boredom and dissatisfaction",
+      "answer": "ENNUI",
+      "theme": false
+    },
+    {
+      "number": 23,
+      "direction": "down",
+      "cells": [
+        55,
+        70,
+        85
+      ],
+      "clue": "A theater off the CTA Belmont stop (Red line)",
+      "answer": "VIC",
+      "theme": false
+    },
+    {
+      "number": 24,
+      "direction": "across",
+      "cells": [
+        60,
+        61,
+        62
+      ],
+      "clue": "4-down’s headquarters",
+      "answer": "NYC",
+      "theme": true
+    },
+    {
+      "number": 25,
+      "direction": "across",
+      "cells": [
+        64,
+        65,
+        66
+      ],
+      "clue": "Social insect that creates underground tunnel systems",
+      "answer": "ANT",
+      "theme": false
+    },
+    {
+      "number": 26,
+      "direction": "across",
+      "cells": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ],
+      "clue": "Conspiracy theorist’s headwear",
+      "answer": "TINHAT",
+      "theme": false
+    },
+    {
+      "number": 27,
+      "direction": "down",
+      "cells": [
+        73,
+        88,
+        103,
+        118,
+        133
+      ],
+      "clue": "The original Stakhanovite (alt. sp.)",
+      "answer": "ALEXI",
+      "theme": true
+    },
+    {
+      "number": 28,
+      "direction": "down",
+      "cells": [
+        74,
+        89,
+        104,
+        119,
+        134
+      ],
+      "clue": "Alan who played Steve the Pirate in Dodgeball",
+      "answer": "TUDYK",
+      "theme": false
+    },
+    {
+      "number": 29,
+      "direction": "across",
+      "cells": [
+        78,
+        79,
+        80
+      ],
+      "clue": "__ & Tonic",
+      "answer": "GIN",
+      "theme": false
+    },
+    {
+      "number": 29,
+      "direction": "down",
+      "cells": [
+        78,
+        93,
+        108,
+        123
+      ],
+      "clue": "It changes with each new administration, while the state remains the same (abbr.)",
+      "answer": "GOVT",
+      "theme": true
+    },
+    {
+      "number": 30,
+      "direction": "across",
+      "cells": [
+        82,
+        83,
+        84,
+        85
+      ],
+      "clue": "Eastern __ (opposed the West during the Cold War)",
+      "answer": "BLOC",
+      "theme": true
+    },
+    {
+      "number": 30,
+      "direction": "down",
+      "cells": [
+        82,
+        97,
+        112,
+        127,
+        142
+      ],
+      "clue": "An enormous bovine? (hint: two words)",
+      "answer": "BIGOX",
+      "theme": false
+    },
+    {
+      "number": 31,
+      "direction": "down",
+      "cells": [
+        83,
+        98,
+        113,
+        128
+      ],
+      "clue": "Text response when something really makes you laugh out loud.",
+      "answer": "LOOL",
+      "theme": false
+    },
+    {
+      "number": 32,
+      "direction": "across",
+      "cells": [
+        87,
+        88,
+        89
+      ],
+      "clue": "IWW precursor, or modern-day 1-down representing one warehouse of workers, briefly",
+      "answer": "ALU",
+      "theme": true
+    },
+    {
+      "number": 33,
+      "direction": "across",
+      "cells": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      "clue": "History’s locomotive, or the bourgeoisie’s biggest fear",
+      "answer": "REVOLUTION",
+      "theme": true
+    },
+    {
+      "number": 33,
+      "direction": "down",
+      "cells": [
+        90,
+        105,
+        120,
+        135,
+        150
+      ],
+      "clue": "Follower of a Jamaican spiritual movement",
+      "answer": "RASTA",
+      "theme": false
+    },
+    {
+      "number": 34,
+      "direction": "down",
+      "cells": [
+        91,
+        106,
+        121,
+        136,
+        151
+      ],
+      "clue": "Dodge, as a billionaire might the IRS",
+      "answer": "EVADE",
+      "theme": false
+    },
+    {
+      "number": 35,
+      "direction": "down",
+      "cells": [
+        92,
+        107,
+        122,
+        137,
+        152,
+        167,
+        182,
+        197,
+        212
+      ],
+      "clue": "History will __ us after the revolution",
+      "answer": "VINDICATE",
+      "theme": true
+    },
+    {
+      "number": 36,
+      "direction": "down",
+      "cells": [
+        96,
+        111,
+        126,
+        141
+      ],
+      "clue": "Japanese footwear with split-toe design",
+      "answer": "TABI",
+      "theme": false
+    },
+    {
+      "number": 37,
+      "direction": "across",
+      "cells": [
+        101,
+        102,
+        103,
+        104
+      ],
+      "clue": "Harry Styles’s former band, informally",
+      "answer": "ONED",
+      "theme": false
+    },
+    {
+      "number": 37,
+      "direction": "down",
+      "cells": [
+        101,
+        116,
+        131,
+        146
+      ],
+      "clue": "The newspaper section where the ruling class can speak its mind.",
+      "answer": "OPED",
+      "theme": false
+    },
+    {
+      "number": 38,
+      "direction": "across",
+      "cells": [
+        105,
+        106,
+        107,
+        108
+      ],
+      "clue": "Tel __ (capital of an apartheid state)",
+      "answer": "AVIV",
+      "theme": true
+    },
+    {
+      "number": 39,
+      "direction": "across",
+      "cells": [
+        110,
+        111,
+        112,
+        113
+      ],
+      "clue": "Jafar’s parrot or Othello’s foe",
+      "answer": "IAGO",
+      "theme": false
+    },
+    {
+      "number": 40,
+      "direction": "across",
+      "cells": [
+        116,
+        117,
+        118,
+        119
+      ],
+      "clue": "British slang for cheap (or if someone has a bad case of chickenpox?)",
+      "answer": "POXY",
+      "theme": false
+    },
+    {
+      "number": 41,
+      "direction": "across",
+      "cells": [
+        120,
+        121,
+        122,
+        123,
+        124
+      ],
+      "clue": "The North Pole’s most famous labor exploiter?",
+      "answer": "SANTA",
+      "theme": false
+    },
+    {
+      "number": 42,
+      "direction": "down",
+      "cells": [
+        124,
+        139,
+        154,
+        169
+      ],
+      "clue": "Spanish for water",
+      "answer": "AGUA",
+      "theme": false
+    },
+    {
+      "number": 43,
+      "direction": "across",
+      "cells": [
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134
+      ],
+      "clue": "A revolutionary on the correct side of the RSDLP split",
+      "answer": "BOLSHEVIK",
+      "theme": true
+    },
+    {
+      "number": 44,
+      "direction": "down",
+      "cells": [
+        129,
+        144,
+        159,
+        174
+      ],
+      "clue": "Insult aimed at someone’s identity",
+      "answer": "SLUR",
+      "theme": false
+    },
+    {
+      "number": 45,
+      "direction": "down",
+      "cells": [
+        130,
+        145,
+        160,
+        175,
+        190,
+        205,
+        220
+      ],
+      "clue": "Jewish holiday (alt. sp.)",
+      "answer": "HANUKAH",
+      "theme": false
+    },
+    {
+      "number": 46,
+      "direction": "across",
+      "cells": [
+        135,
+        136,
+        137
+      ],
+      "clue": "Test-Driven Development, to a programmer",
+      "answer": "TDD",
+      "theme": false
+    },
+    {
+      "number": 47,
+      "direction": "across",
+      "cells": [
+        139,
+        140,
+        141,
+        142
+      ],
+      "clue": "Private jet model (hint: 2010 song, “Like a __”)",
+      "answer": "GSIX",
+      "theme": false
+    },
+    {
+      "number": 48,
+      "direction": "down",
+      "cells": [
+        140,
+        155,
+        170,
+        185,
+        200,
+        215
+      ],
+      "clue": "An interconnected whole that cannot be understood merely by examining its parts",
+      "answer": "SYSTEM",
+      "theme": false
+    },
+    {
+      "number": 49,
+      "direction": "across",
+      "cells": [
+        144,
+        145,
+        146
+      ],
+      "clue": "British fella",
+      "answer": "LAD",
+      "theme": false
+    },
+    {
+      "number": 50,
+      "direction": "across",
+      "cells": [
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ],
+      "clue": "Vowels in a typical order",
+      "answer": "AEIOUY",
+      "theme": false
+    },
+    {
+      "number": 51,
+      "direction": "down",
+      "cells": [
+        153,
+        168,
+        183,
+        198,
+        213
+      ],
+      "clue": "Richard, US Attorney General who used injunctions and federal troops against workers participating in the Pullman Strike",
+      "answer": "OLNEY",
+      "theme": true
+    },
+    {
+      "number": 52,
+      "direction": "across",
+      "cells": [
+        158,
+        159,
+        160
+      ],
+      "clue": "__NING (cleverness) or __T (vulgar epithet)",
+      "answer": "CUN",
+      "theme": false
+    },
+    {
+      "number": 52,
+      "direction": "down",
+      "cells": [
+        158,
+        173,
+        188,
+        203,
+        218
+      ],
+      "clue": "Cut, as a keyboard shortcut (PC)",
+      "answer": "CTRLX",
+      "theme": false
+    },
+    {
+      "number": 53,
+      "direction": "across",
+      "cells": [
+        162,
+        163,
+        164
+      ],
+      "clue": "Common Midwest thing to say when you bump into someone",
+      "answer": "OOP",
+      "theme": false
+    },
+    {
+      "number": 53,
+      "direction": "down",
+      "cells": [
+        162,
+        177,
+        192,
+        207,
+        222
+      ],
+      "clue": "First Chicago mayor (and an avenue that becomes US Route 66)",
+      "answer": "OGDEN",
+      "theme": false
+    },
+    {
+      "number": 54,
+      "direction": "down",
+      "cells": [
+        163,
+        178,
+        193,
+        208,
+        223
+      ],
+      "clue": "“He’s just good __’ ___.” (sentimental way to refer to one’s father)",
+      "answer": "OLDAD",
+      "theme": false
+    },
+    {
+      "number": 55,
+      "direction": "down",
+      "cells": [
+        164,
+        179,
+        194,
+        209,
+        224
+      ],
+      "clue": "How a bourgeois might refer to his toilers",
+      "answer": "PEONS",
+      "theme": true
+    },
+    {
+      "number": 56,
+      "direction": "across",
+      "cells": [
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179
+      ],
+      "clue": "What the bourgeoisie cannot abolish without abolishing itself.",
+      "answer": "CLASSSTRUGGLE",
+      "theme": true
+    },
+    {
+      "number": 57,
+      "direction": "down",
+      "cells": [
+        171,
+        186,
+        201,
+        216
+      ],
+      "clue": "Major river running through southeastern Europe that flows into the Danube",
+      "answer": "SAVA",
+      "theme": false
+    },
+    {
+      "number": 58,
+      "direction": "down",
+      "cells": [
+        172,
+        187,
+        202,
+        217
+      ],
+      "clue": "“Your comments caused quite a __” (commotion)",
+      "answer": "STIR",
+      "theme": false
+    },
+    {
+      "number": 59,
+      "direction": "down",
+      "cells": [
+        176,
+        191,
+        206,
+        221
+      ],
+      "clue": "__ monster, a venomous lizard",
+      "answer": "GILA",
+      "theme": false
+    },
+    {
+      "number": 60,
+      "direction": "across",
+      "cells": [
+        180,
+        181,
+        182,
+        183
+      ],
+      "clue": "Another name for denim (or a Chicago RCA comrade!)",
+      "answer": "JEAN",
+      "theme": false
+    },
+    {
+      "number": 60,
+      "direction": "down",
+      "cells": [
+        180,
+        195,
+        210
+      ],
+      "clue": "Common image file format",
+      "answer": "JPG",
+      "theme": false
+    },
+    {
+      "number": 61,
+      "direction": "down",
+      "cells": [
+        181,
+        196,
+        211
+      ],
+      "clue": "Word before drum or phones",
+      "answer": "EAR",
+      "theme": false
+    },
+    {
+      "number": 62,
+      "direction": "across",
+      "cells": [
+        185,
+        186,
+        187,
+        188
+      ],
+      "clue": "This Answer’s Totally Ridiculous (abbr.)",
+      "answer": "TATR",
+      "theme": false
+    },
+    {
+      "number": 63,
+      "direction": "across",
+      "cells": [
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "clue": "Tyke",
+      "answer": "KIDDO",
+      "theme": false
+    },
+    {
+      "number": 64,
+      "direction": "across",
+      "cells": [
+        195,
+        196,
+        197,
+        198
+      ],
+      "clue": "Common wet food option for cats",
+      "answer": "PATE",
+      "theme": false
+    },
+    {
+      "number": 65,
+      "direction": "across",
+      "cells": [
+        200,
+        201,
+        202,
+        203
+      ],
+      "clue": "A pragmatist urges you to choose the lesser of this every election",
+      "answer": "EVIL",
+      "theme": true
+    },
+    {
+      "number": 66,
+      "direction": "across",
+      "cells": [
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "clue": "“He’s _ __, mean, fighting machine“",
+      "answer": "ALEAN",
+      "theme": false
+    },
+    {
+      "number": 67,
+      "direction": "across",
+      "cells": [
+        210,
+        211,
+        212,
+        213
+      ],
+      "clue": "Whose Anatomy?",
+      "answer": "GREY",
+      "theme": false
+    },
+    {
+      "number": 68,
+      "direction": "across",
+      "cells": [
+        215,
+        216,
+        217,
+        218
+      ],
+      "clue": "He transformed socialism from a utopian ideal into a scientific understanding of how it will be realized",
+      "answer": "MARX",
+      "theme": true
+    },
+    {
+      "number": 69,
+      "direction": "across",
+      "cells": [
+        220,
+        221,
+        222,
+        223,
+        224
+      ],
+      "clue": "These were freed for labor once our primate ancestors started walking upright",
+      "answer": "HANDS",
+      "theme": true
+    }
+  ],
+  "numbers": {
+    "0": 1,
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "4": 5,
+    "6": 6,
+    "7": 7,
+    "8": 8,
+    "9": 9,
+    "11": 10,
+    "12": 11,
+    "13": 12,
+    "14": 13,
+    "15": 14,
+    "21": 15,
+    "26": 16,
+    "30": 17,
+    "36": 18,
+    "41": 19,
+    "45": 20,
+    "49": 21,
+    "50": 22,
+    "55": 23,
+    "60": 24,
+    "64": 25,
+    "69": 26,
+    "73": 27,
+    "74": 28,
+    "78": 29,
+    "82": 30,
+    "83": 31,
+    "87": 32,
+    "90": 33,
+    "91": 34,
+    "92": 35,
+    "96": 36,
+    "101": 37,
+    "105": 38,
+    "110": 39,
+    "116": 40,
+    "120": 41,
+    "124": 42,
+    "126": 43,
+    "129": 44,
+    "130": 45,
+    "135": 46,
+    "139": 47,
+    "140": 48,
+    "144": 49,
+    "150": 50,
+    "153": 51,
+    "158": 52,
+    "162": 53,
+    "163": 54,
+    "164": 55,
+    "167": 56,
+    "171": 57,
+    "172": 58,
+    "176": 59,
+    "180": 60,
+    "181": 61,
+    "185": 62,
+    "190": 63,
+    "195": 64,
+    "200": 65,
+    "205": 66,
+    "210": 67,
+    "215": 68,
+    "220": 69
+  },
+  "title": "A Communist Crossword",
+  "subtitle": "Puzzle No. 1",
+  "id": "001"
+}

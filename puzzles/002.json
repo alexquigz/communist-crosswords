@@ -1,0 +1,1369 @@
+{
+  "rows": [
+    "UGHS##LAIDON##OLD",
+    "AREP#MURDERS#HWYS",
+    "WAGE#OCTOBER#ANOA",
+    "#CENTRISM####DEN#",
+    "#ELDERLY#ARSTARS#",
+    "###ILIE##LETUS###",
+    "ENGELS#COMMUNIST#",
+    "DOORS#TIC#ADAPTED",
+    "AMN##TROTSKY##ORU",
+    "MONAMIE#ESE#AZURE",
+    "#MANIFESTO#SMITES",
+    "###ALIBI##AMEN###",
+    "#WORKERS#COUNCIL#",
+    "#OTC##ATARIGAMES#",
+    "ORTH#INITIAL#IVAN",
+    "OLEY#MCNEELY#NETI",
+    "FDR##THEORY##ERST"
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "direction": "across",
+      "clue": "Sounds of exasperation or annoyance",
+      "answer": "UGHS",
+      "theme": false,
+      "cells": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "number": 5,
+      "direction": "across",
+      "clue": "“Dang! You ___ it __ thick!” (exaggerated)",
+      "answer": "LAIDON",
+      "theme": false,
+      "cells": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    {
+      "number": 11,
+      "direction": "across",
+      "clue": "T: The __ Bolshevik Guard (Pre-revolution Party OGs)",
+      "answer": "OLD",
+      "theme": true,
+      "cells": [
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "number": 14,
+      "direction": "across",
+      "clue": "One squat or push-up, in gym speak",
+      "answer": "AREP",
+      "theme": false,
+      "cells": [
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "number": 15,
+      "direction": "across",
+      "clue": "Only ___ in the Building, TV comedy starring Steve Martin",
+      "answer": "MURDERS",
+      "theme": false,
+      "cells": [
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "number": 16,
+      "direction": "across",
+      "clue": "US Routes 41 and 30, briefly",
+      "answer": "HWYS",
+      "theme": false,
+      "cells": [
+        30,
+        31,
+        32,
+        33
+      ]
+    },
+    {
+      "number": 17,
+      "direction": "across",
+      "clue": "T: With “a,” what the capitalist pays for labor-power, but not for labor",
+      "answer": "WAGE",
+      "theme": true,
+      "cells": [
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "number": 18,
+      "direction": "across",
+      "clue": "T: The month that shook the world… and gave the bourgeoisie its greatest nightmare",
+      "answer": "OCTOBER",
+      "theme": true,
+      "cells": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "number": 19,
+      "direction": "across",
+      "clue": "Smallest wild cattle species",
+      "answer": "ANOA",
+      "theme": false,
+      "cells": [
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "number": 20,
+      "direction": "across",
+      "clue": "T: Political tendency that is revolutionary in rhetoric, but reformist in deeds, serving only to confuse the masses",
+      "answer": "CENTRISM",
+      "theme": true,
+      "cells": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "number": 22,
+      "direction": "across",
+      "clue": "Home for a lion or dragon",
+      "answer": "DEN",
+      "theme": false,
+      "cells": [
+        64,
+        65,
+        66
+      ]
+    },
+    {
+      "number": 23,
+      "direction": "across",
+      "clue": "Not a fruitful layer to recruit from, given their typically conservative worldview",
+      "answer": "ELDERLY",
+      "theme": false,
+      "cells": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "number": 24,
+      "direction": "across",
+      "clue": "Bits of the cosmos, as seen through a phone screen using augmented reality",
+      "answer": "ARSTARS",
+      "theme": false,
+      "cells": [
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ]
+    },
+    {
+      "number": 28,
+      "direction": "across",
+      "clue": "An admission of dishonesty",
+      "answer": "ILIE",
+      "theme": false,
+      "cells": [
+        88,
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "number": 29,
+      "direction": "across",
+      "clue": "“Don’t __ __ down!” (negative version of “make us proud!”)",
+      "answer": "LETUS",
+      "theme": false,
+      "cells": [
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    },
+    {
+      "number": 30,
+      "direction": "across",
+      "clue": "Revolutionary theorist and Marx’s closest collaborator who explained a lot of Origins",
+      "answer": "ENGELS",
+      "theme": true,
+      "cells": [
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "number": 33,
+      "direction": "across",
+      "clue": "T: With 51-across, it’s more relevant now than when it was originally written in 1848",
+      "answer": "COMMUNIST",
+      "theme": true,
+      "cells": [
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117
+      ]
+    },
+    {
+      "number": 37,
+      "direction": "across",
+      "clue": "They often open automatically at grocery stores",
+      "answer": "DOORS",
+      "theme": false,
+      "cells": [
+        119,
+        120,
+        121,
+        122,
+        123
+      ]
+    },
+    {
+      "number": 38,
+      "direction": "across",
+      "clue": "Unconscious quirk",
+      "answer": "TIC",
+      "theme": false,
+      "cells": [
+        125,
+        126,
+        127
+      ]
+    },
+    {
+      "number": 39,
+      "direction": "across",
+      "clue": "Acclimated",
+      "answer": "ADAPTED",
+      "theme": false,
+      "cells": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135
+      ]
+    },
+    {
+      "number": 41,
+      "direction": "across",
+      "clue": "Lowest rank in the U.S. Air Force, briefly",
+      "answer": "AMN",
+      "theme": false,
+      "cells": [
+        136,
+        137,
+        138
+      ]
+    },
+    {
+      "number": 42,
+      "direction": "across",
+      "clue": "T: Head of the Petrograd Soviet, leader of the Red Army, and the Stalinist bureaucracy’s most fervent opponent",
+      "answer": "TROTSKY",
+      "theme": true,
+      "cells": [
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147
+      ]
+    },
+    {
+      "number": 44,
+      "direction": "across",
+      "clue": "Christian college in OK named after a televangelist",
+      "answer": "ORU",
+      "theme": false,
+      "cells": [
+        150,
+        151,
+        152
+      ]
+    },
+    {
+      "number": 45,
+      "direction": "across",
+      "clue": "My female friend, to a Parisian",
+      "answer": "MONAMIE",
+      "theme": false,
+      "cells": [
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159
+      ]
+    },
+    {
+      "number": 48,
+      "direction": "across",
+      "clue": "That one, in Spanish",
+      "answer": "ESE",
+      "theme": false,
+      "cells": [
+        161,
+        162,
+        163
+      ]
+    },
+    {
+      "number": 49,
+      "direction": "across",
+      "clue": "Bright, cyan-blue color",
+      "answer": "AZURE",
+      "theme": false,
+      "cells": [
+        165,
+        166,
+        167,
+        168,
+        169
+      ]
+    },
+    {
+      "number": 51,
+      "direction": "across",
+      "clue": "T: See 33-across",
+      "answer": "MANIFESTO",
+      "theme": true,
+      "cells": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179
+      ]
+    },
+    {
+      "number": 53,
+      "direction": "across",
+      "clue": "Strikes down, biblically",
+      "answer": "SMITES",
+      "theme": false,
+      "cells": [
+        181,
+        182,
+        183,
+        184,
+        185,
+        186
+      ]
+    },
+    {
+      "number": 54,
+      "direction": "across",
+      "clue": "A good thing to have if you’re accused of a crime",
+      "answer": "ALIBI",
+      "theme": false,
+      "cells": [
+        190,
+        191,
+        192,
+        193,
+        194
+      ]
+    },
+    {
+      "number": 55,
+      "direction": "across",
+      "clue": "Prayer ending",
+      "answer": "AMEN",
+      "theme": false,
+      "cells": [
+        197,
+        198,
+        199,
+        200
+      ]
+    },
+    {
+      "number": 56,
+      "direction": "across",
+      "clue": "T: With 58-across, what the Russian word “soviet” literally refers to, i.e., an organ of proletarian democracy and power",
+      "answer": "WORKERS",
+      "theme": true,
+      "cells": [
+        205,
+        206,
+        207,
+        208,
+        209,
+        210,
+        211
+      ]
+    },
+    {
+      "number": 58,
+      "direction": "across",
+      "clue": "T: See 56-across",
+      "answer": "COUNCIL",
+      "theme": true,
+      "cells": [
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219
+      ]
+    },
+    {
+      "number": 61,
+      "direction": "across",
+      "clue": "Medicine that can be bought without a prescription, briefly",
+      "answer": "OTC",
+      "theme": false,
+      "cells": [
+        222,
+        223,
+        224
+      ]
+    },
+    {
+      "number": 62,
+      "direction": "across",
+      "clue": "Pong, Pac-Man, and Space Invaders, to name a few",
+      "answer": "ATARIGAMES",
+      "theme": false,
+      "cells": [
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236
+      ]
+    },
+    {
+      "number": 64,
+      "direction": "across",
+      "clue": "Prefix with -opedics, -odontist, or -odoxy",
+      "answer": "ORTH",
+      "theme": false,
+      "cells": [
+        238,
+        239,
+        240,
+        241
+      ]
+    },
+    {
+      "number": 65,
+      "direction": "across",
+      "clue": "Acknowledge, on a contract",
+      "answer": "INITIAL",
+      "theme": false,
+      "cells": [
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249
+      ]
+    },
+    {
+      "number": 66,
+      "direction": "across",
+      "clue": "T: The first Tsar of Russia, __ the Terrible",
+      "answer": "IVAN",
+      "theme": true,
+      "cells": [
+        251,
+        252,
+        253,
+        254
+      ]
+    },
+    {
+      "number": 68,
+      "direction": "across",
+      "clue": "Soccer cheer, phonetically",
+      "answer": "OLEY",
+      "theme": false,
+      "cells": [
+        255,
+        256,
+        257,
+        258
+      ]
+    },
+    {
+      "number": 69,
+      "direction": "across",
+      "clue": "Irish surname that rhymes with “Steely”",
+      "answer": "MCNEELY",
+      "theme": false,
+      "cells": [
+        260,
+        261,
+        262,
+        263,
+        264,
+        265,
+        266
+      ]
+    },
+    {
+      "number": 70,
+      "direction": "across",
+      "clue": "Pot for clearing out one’s sinuses",
+      "answer": "NETI",
+      "theme": false,
+      "cells": [
+        268,
+        269,
+        270,
+        271
+      ]
+    },
+    {
+      "number": 71,
+      "direction": "across",
+      "clue": "T: President who implemented and defended the New Deal as a means of saving capitalism from itself",
+      "answer": "FDR",
+      "theme": true,
+      "cells": [
+        272,
+        273,
+        274
+      ]
+    },
+    {
+      "number": 72,
+      "direction": "across",
+      "clue": "T: Without revolutionary ___, there can be no revolutionary movement",
+      "answer": "THEORY",
+      "theme": true,
+      "cells": [
+        277,
+        278,
+        279,
+        280,
+        281,
+        282
+      ]
+    },
+    {
+      "number": 73,
+      "direction": "across",
+      "clue": "__while (former, quaintly)",
+      "answer": "ERST",
+      "theme": false,
+      "cells": [
+        285,
+        286,
+        287,
+        288
+      ]
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "clue": "T: Union that brought General Motors to its knees in Flint and put 33-down on the map",
+      "answer": "UAW",
+      "theme": true,
+      "cells": [
+        0,
+        17,
+        34
+      ]
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "clue": "This is said in religious households before a meal, often ending with a 55-down",
+      "answer": "GRACE",
+      "theme": false,
+      "cells": [
+        1,
+        18,
+        35,
+        52,
+        69
+      ]
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "clue": "T: It’s said that Marx put this brilliant (albeit idealist) dialectician back on his feet?",
+      "answer": "HEGEL",
+      "theme": true,
+      "cells": [
+        2,
+        19,
+        36,
+        53,
+        70
+      ]
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "clue": "More expensive, colloquially",
+      "answer": "SPENDIER",
+      "theme": false,
+      "cells": [
+        3,
+        20,
+        37,
+        54,
+        71,
+        88,
+        105,
+        122
+      ]
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "clue": "Ball, an American comedian, actress, and studio exec.",
+      "answer": "LUCILE",
+      "theme": false,
+      "cells": [
+        6,
+        23,
+        40,
+        57,
+        74,
+        91
+      ]
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "clue": "Can mean either crafty and creative or pretentious and superficial",
+      "answer": "ARTSY",
+      "theme": false,
+      "cells": [
+        7,
+        24,
+        41,
+        58,
+        75
+      ]
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "clue": "T: 42-across’s posthumous collection of advice (and polemics) to American socialist leaders, briefly (or the quarterly theoretical journal of the RCI!)",
+      "answer": "IDOM",
+      "theme": true,
+      "cells": [
+        8,
+        25,
+        42,
+        59
+      ]
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "clue": "T: Eugene V. ___s, a pioneer of the American labor and socialist movements",
+      "answer": "DEB",
+      "theme": true,
+      "cells": [
+        9,
+        26,
+        43
+      ]
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "clue": "Fruit of mining",
+      "answer": "ORE",
+      "theme": false,
+      "cells": [
+        10,
+        27,
+        44
+      ]
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "clue": "Healthy electrical heart functioning, on a medical chart",
+      "answer": "NSR",
+      "theme": false,
+      "cells": [
+        11,
+        28,
+        45
+      ]
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "clue": "T: Capitalism is premised on this role being private and not beholden to democratic control",
+      "answer": "OWNER",
+      "theme": true,
+      "cells": [
+        14,
+        31,
+        48,
+        65,
+        82
+      ]
+    },
+    {
+      "number": 12,
+      "direction": "down",
+      "clue": "Cook County township southwest of Chicago",
+      "answer": "LYONS",
+      "theme": false,
+      "cells": [
+        15,
+        32,
+        49,
+        66,
+        83
+      ]
+    },
+    {
+      "number": 13,
+      "direction": "down",
+      "clue": "A banner for reformism in the age of no reforms? Or, a “socialist” org. that doesn’t know what socialism is?",
+      "answer": "DSA",
+      "theme": true,
+      "cells": [
+        16,
+        33,
+        50
+      ]
+    },
+    {
+      "number": 15,
+      "direction": "down",
+      "clue": "T: Gouverneur ___, a class conscious Founding Father who thought property ownership should determine voting rights",
+      "answer": "MORRIS",
+      "theme": true,
+      "cells": [
+        22,
+        39,
+        56,
+        73,
+        90,
+        107
+      ]
+    },
+    {
+      "number": 16,
+      "direction": "down",
+      "clue": "Tried a beverage",
+      "answer": "HADASIP",
+      "theme": false,
+      "cells": [
+        30,
+        47,
+        64,
+        81,
+        98,
+        115,
+        132
+      ]
+    },
+    {
+      "number": 21,
+      "direction": "down",
+      "clue": "You conceal your own and look for your opponents’, during a poker game",
+      "answer": "TELLS",
+      "theme": false,
+      "cells": [
+        55,
+        72,
+        89,
+        106,
+        123
+      ]
+    },
+    {
+      "number": 24,
+      "direction": "down",
+      "clue": "When plural, this is money or material goods given directly to the poor as an act of charity (“Giving __s”)",
+      "answer": "ALM",
+      "theme": false,
+      "cells": [
+        77,
+        94,
+        111
+      ]
+    },
+    {
+      "number": 25,
+      "direction": "down",
+      "clue": "Disney produces live-action versions of this to make ever more money from their IP",
+      "answer": "REMAKE",
+      "theme": false,
+      "cells": [
+        78,
+        95,
+        112,
+        129,
+        146,
+        163
+      ]
+    },
+    {
+      "number": 26,
+      "direction": "down",
+      "clue": "All serious revolutionaries must __ Marxist 72-across",
+      "answer": "STUDY",
+      "theme": true,
+      "cells": [
+        79,
+        96,
+        113,
+        130,
+        147
+      ]
+    },
+    {
+      "number": 27,
+      "direction": "down",
+      "clue": "Goes great on a melt, salad, sushi roll, etc.",
+      "answer": "TUNA",
+      "theme": false,
+      "cells": [
+        80,
+        97,
+        114,
+        131
+      ]
+    },
+    {
+      "number": 30,
+      "direction": "down",
+      "clue": "Semi-hard Dutch cheese in red wax coating",
+      "answer": "EDAM",
+      "theme": false,
+      "cells": [
+        102,
+        119,
+        136,
+        153
+      ]
+    },
+    {
+      "number": 31,
+      "direction": "down",
+      "clue": "Two words that shouldn’t be said on Mother’s Day?",
+      "answer": "NOMOM",
+      "theme": false,
+      "cells": [
+        103,
+        120,
+        137,
+        154,
+        171
+      ]
+    },
+    {
+      "number": 32,
+      "direction": "down",
+      "clue": "“We’re ___ need a bigger boat”",
+      "answer": "GONNA",
+      "theme": false,
+      "cells": [
+        104,
+        121,
+        138,
+        155,
+        172
+      ]
+    },
+    {
+      "number": 33,
+      "direction": "down",
+      "clue": "T: One half of the big American labor bureaucracy, but with a more militant history, at least",
+      "answer": "CIO",
+      "theme": true,
+      "cells": [
+        109,
+        126,
+        143
+      ]
+    },
+    {
+      "number": 34,
+      "direction": "down",
+      "clue": "Twice as big as a quartet",
+      "answer": "OCTET",
+      "theme": false,
+      "cells": [
+        110,
+        127,
+        144,
+        161,
+        178
+      ]
+    },
+    {
+      "number": 35,
+      "direction": "down",
+      "clue": "Heavy-bodied beer, or a teapot characteristic",
+      "answer": "STOUT",
+      "theme": false,
+      "cells": [
+        116,
+        133,
+        150,
+        167,
+        184
+      ]
+    },
+    {
+      "number": 36,
+      "direction": "down",
+      "clue": "What la mer meets at the shore, en français",
+      "answer": "TERRE",
+      "theme": false,
+      "cells": [
+        117,
+        134,
+        151,
+        168,
+        185
+      ]
+    },
+    {
+      "number": 38,
+      "direction": "down",
+      "clue": "Where a bird might build its nest",
+      "answer": "TREEBRANCH",
+      "theme": false,
+      "cells": [
+        125,
+        142,
+        159,
+        176,
+        193,
+        210,
+        227,
+        244,
+        261,
+        278
+      ]
+    },
+    {
+      "number": 40,
+      "direction": "down",
+      "clue": "T: What communists are proud to pay every month",
+      "answer": "DUES",
+      "theme": true,
+      "cells": [
+        135,
+        152,
+        169,
+        186
+      ]
+    },
+    {
+      "number": 42,
+      "direction": "down",
+      "clue": "Tify is to Tiffany as ___ is to Tiffanie",
+      "answer": "TIFIE",
+      "theme": false,
+      "cells": [
+        141,
+        158,
+        175,
+        192,
+        209
+      ]
+    },
+    {
+      "number": 43,
+      "direction": "down",
+      "clue": "Login system that uses one set of credentials for multiple apps, abbr.",
+      "answer": "SSO",
+      "theme": false,
+      "cells": [
+        145,
+        162,
+        179
+      ]
+    },
+    {
+      "number": 46,
+      "direction": "down",
+      "clue": "T: The ___ of capitalist production demonstrates the need for a planned economy (or a radical sounding, but impotent political ideology)",
+      "answer": "ANARCHY",
+      "theme": true,
+      "cells": [
+        156,
+        173,
+        190,
+        207,
+        224,
+        241,
+        258
+      ]
+    },
+    {
+      "number": 47,
+      "direction": "down",
+      "clue": "Distinctly mammalian drink",
+      "answer": "MILK",
+      "theme": false,
+      "cells": [
+        157,
+        174,
+        191,
+        208
+      ]
+    },
+    {
+      "number": 49,
+      "direction": "down",
+      "clue": "Pleasant, in Spanish",
+      "answer": "AMENA",
+      "theme": false,
+      "cells": [
+        165,
+        182,
+        199,
+        216,
+        233
+      ]
+    },
+    {
+      "number": 50,
+      "direction": "down",
+      "clue": "Underground source of element #30 (Zn)",
+      "answer": "ZINCMINE",
+      "theme": false,
+      "cells": [
+        166,
+        183,
+        200,
+        217,
+        234,
+        251,
+        268,
+        285
+      ]
+    },
+    {
+      "number": 52,
+      "direction": "down",
+      "clue": "A Chapel where god and man touch?",
+      "answer": "SISTINE",
+      "theme": false,
+      "cells": [
+        177,
+        194,
+        211,
+        228,
+        245,
+        262,
+        279
+      ]
+    },
+    {
+      "number": 53,
+      "direction": "down",
+      "clue": "With an air of superiority",
+      "answer": "SMUGLY",
+      "theme": false,
+      "cells": [
+        181,
+        198,
+        215,
+        232,
+        249,
+        266
+      ]
+    },
+    {
+      "number": 55,
+      "direction": "down",
+      "clue": "Freebee! AOIALY",
+      "answer": "AOIALY",
+      "theme": false,
+      "cells": [
+        197,
+        214,
+        231,
+        248,
+        265,
+        282
+      ]
+    },
+    {
+      "number": 56,
+      "direction": "down",
+      "clue": "T: “[56-across] of the ___, unite!”",
+      "answer": "WORLD",
+      "theme": true,
+      "cells": [
+        205,
+        222,
+        239,
+        256,
+        273
+      ]
+    },
+    {
+      "number": 57,
+      "direction": "down",
+      "clue": "Playful little marine mammal",
+      "answer": "OTTER",
+      "theme": false,
+      "cells": [
+        206,
+        223,
+        240,
+        257,
+        274
+      ]
+    },
+    {
+      "number": 58,
+      "direction": "down",
+      "clue": "With “town,” an old-timey public announcer",
+      "answer": "CRIER",
+      "theme": false,
+      "cells": [
+        213,
+        230,
+        247,
+        264,
+        281
+      ]
+    },
+    {
+      "number": 59,
+      "direction": "down",
+      "clue": "“Did _ ___ tell you about that time…?”",
+      "answer": "IEVER",
+      "theme": false,
+      "cells": [
+        218,
+        235,
+        252,
+        269,
+        286
+      ]
+    },
+    {
+      "number": 60,
+      "direction": "down",
+      "clue": "Exams for aspiring law student",
+      "answer": "LSATS",
+      "theme": false,
+      "cells": [
+        219,
+        236,
+        253,
+        270,
+        287
+      ]
+    },
+    {
+      "number": 63,
+      "direction": "down",
+      "clue": "Atheist, to an Italian",
+      "answer": "ATEO",
+      "theme": false,
+      "cells": [
+        229,
+        246,
+        263,
+        280
+      ]
+    },
+    {
+      "number": 64,
+      "direction": "down",
+      "clue": "“Now that’s a big ___” (mistake)",
+      "answer": "OOF",
+      "theme": false,
+      "cells": [
+        238,
+        255,
+        272
+      ]
+    },
+    {
+      "number": 65,
+      "direction": "down",
+      "clue": "The RCI’s precursor",
+      "answer": "IMT",
+      "theme": true,
+      "cells": [
+        243,
+        260,
+        277
+      ]
+    },
+    {
+      "number": 67,
+      "direction": "down",
+      "clue": "___-pick (criticize)",
+      "answer": "NIT",
+      "theme": false,
+      "cells": [
+        254,
+        271,
+        288
+      ]
+    }
+  ],
+  "numbers": {
+    "0": 1,
+    "1": 2,
+    "2": 3,
+    "3": 4,
+    "6": 5,
+    "7": 6,
+    "8": 7,
+    "9": 8,
+    "10": 9,
+    "11": 10,
+    "14": 11,
+    "15": 12,
+    "16": 13,
+    "17": 14,
+    "22": 15,
+    "30": 16,
+    "34": 17,
+    "39": 18,
+    "47": 19,
+    "52": 20,
+    "55": 21,
+    "64": 22,
+    "69": 23,
+    "77": 24,
+    "78": 25,
+    "79": 26,
+    "80": 27,
+    "88": 28,
+    "94": 29,
+    "102": 30,
+    "103": 31,
+    "104": 32,
+    "109": 33,
+    "110": 34,
+    "116": 35,
+    "117": 36,
+    "119": 37,
+    "125": 38,
+    "129": 39,
+    "135": 40,
+    "136": 41,
+    "141": 42,
+    "145": 43,
+    "150": 44,
+    "153": 45,
+    "156": 46,
+    "157": 47,
+    "161": 48,
+    "165": 49,
+    "166": 50,
+    "171": 51,
+    "177": 52,
+    "181": 53,
+    "190": 54,
+    "197": 55,
+    "205": 56,
+    "206": 57,
+    "213": 58,
+    "218": 59,
+    "219": 60,
+    "222": 61,
+    "227": 62,
+    "229": 63,
+    "238": 64,
+    "243": 65,
+    "251": 66,
+    "254": 67,
+    "255": 68,
+    "260": 69,
+    "268": 70,
+    "272": 71,
+    "277": 72,
+    "285": 73
+  },
+  "title": "Another Communist Crossword",
+  "subtitle": "Puzzle No. 2",
+  "id": "002"
+}
