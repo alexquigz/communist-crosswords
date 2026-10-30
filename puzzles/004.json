@@ -1,0 +1,1503 @@
+{
+  "rows": [
+    "###OUS####SAD##WIN",
+    "QUANTITY#NECESSITY",
+    "UPREARED#EQUIPPING",
+    "ARITH#ESPO#AFAR###",
+    "LIEON###ONATIRADE#",
+    "ISLAS##DIALECTICAL",
+    "TELS##UINTA##ANERA",
+    "YREKA#NOTATED##LLC",
+    "####ALI##LEDIN#LYE",
+    "TAB#AETNA##GAB####",
+    "AGA##EYECARE#ASPCA",
+    "SUNRA##ACNES##CROC",
+    "MATERIALISM##MOOSE",
+    "#SUPERSEDE###OPCIT",
+    "###ANAL#ERIC#TEENA",
+    "TIESONEON#RADIOSET",
+    "PRETTIEST#LAROUSSE",
+    "SAL##SPA####ENT###"
+  ],
+  "entries": [
+    {
+      "number": 1,
+      "direction": "across",
+      "cells": [
+        3,
+        4,
+        5
+      ],
+      "clue": "Suffix with riot, peril, libel, vigor, etc.",
+      "answer": "OUS",
+      "theme": false
+    },
+    {
+      "number": 1,
+      "direction": "down",
+      "cells": [
+        3,
+        21,
+        39,
+        57,
+        75,
+        93,
+        111,
+        129
+      ],
+      "clue": "The person who knows the answer, like “He’s the __ __ __”",
+      "answer": "ONETOASK",
+      "theme": false
+    },
+    {
+      "number": 2,
+      "direction": "down",
+      "cells": [
+        4,
+        22,
+        40,
+        58,
+        76,
+        94
+      ],
+      "clue": "Salt Lake City residents",
+      "answer": "UTAHNS",
+      "theme": false
+    },
+    {
+      "number": 3,
+      "direction": "down",
+      "cells": [
+        5,
+        23,
+        41
+      ],
+      "clue": "Madam’s male counterpart",
+      "answer": "SIR",
+      "theme": false
+    },
+    {
+      "number": 4,
+      "direction": "across",
+      "cells": [
+        10,
+        11,
+        12
+      ],
+      "clue": "Unhappy",
+      "answer": "SAD",
+      "theme": false
+    },
+    {
+      "number": 4,
+      "direction": "down",
+      "cells": [
+        10,
+        28,
+        46
+      ],
+      "clue": "Et __ (footnote abbr. meaning “and the following”)",
+      "answer": "SEQ",
+      "theme": false
+    },
+    {
+      "number": 5,
+      "direction": "down",
+      "cells": [
+        11,
+        29,
+        47,
+        65,
+        83,
+        101
+      ],
+      "clue": "A rare synonym for “sharp” that differs from ACUTE by one additional letter",
+      "answer": "ACUATE",
+      "theme": false
+    },
+    {
+      "number": 6,
+      "direction": "down",
+      "cells": [
+        12,
+        30,
+        48,
+        66,
+        84,
+        102
+      ],
+      "clue": "God-like",
+      "answer": "DEIFIC",
+      "theme": false
+    },
+    {
+      "number": 7,
+      "direction": "across",
+      "cells": [
+        15,
+        16,
+        17
+      ],
+      "clue": "Communism will __!",
+      "answer": "WIN",
+      "theme": false
+    },
+    {
+      "number": 7,
+      "direction": "down",
+      "cells": [
+        15,
+        33,
+        51
+      ],
+      "clue": "Nintendo console, with such bangers as “__ Fit” and “__ Sports”",
+      "answer": "WII",
+      "theme": false
+    },
+    {
+      "number": 8,
+      "direction": "down",
+      "cells": [
+        16,
+        34,
+        52
+      ],
+      "clue": "BBC competitor",
+      "answer": "ITN",
+      "theme": false
+    },
+    {
+      "number": 9,
+      "direction": "down",
+      "cells": [
+        17,
+        35,
+        53
+      ],
+      "clue": "The N.F.L.’s Giants, on scoreboards",
+      "answer": "NYG",
+      "theme": false
+    },
+    {
+      "number": 10,
+      "direction": "across",
+      "cells": [
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25
+      ],
+      "clue": "What can change without altering a thing’s essential character…until it reaches a tipping point where these changes cause 10-down to change",
+      "answer": "QUANTITY",
+      "theme": true
+    },
+    {
+      "number": 10,
+      "direction": "down",
+      "cells": [
+        18,
+        36,
+        54,
+        72,
+        90,
+        108,
+        126
+      ],
+      "clue": "What distinguishes a thing as what it is, and may be transformed when changes in 10-across reach a tipping point",
+      "answer": "QUALITY",
+      "theme": true
+    },
+    {
+      "number": 11,
+      "direction": "down",
+      "cells": [
+        19,
+        37,
+        55,
+        73,
+        91,
+        109,
+        127
+      ],
+      "clue": "One who participates in an uprising?",
+      "answer": "UPRISER",
+      "theme": false
+    },
+    {
+      "number": 12,
+      "direction": "down",
+      "cells": [
+        20,
+        38,
+        56,
+        74,
+        92,
+        110,
+        128
+      ],
+      "clue": "Homophone of 74-across’s love interest in The Little Mermaid",
+      "answer": "ARIELLE",
+      "theme": false
+    },
+    {
+      "number": 13,
+      "direction": "down",
+      "cells": [
+        24,
+        42,
+        60
+      ],
+      "clue": "Simple kind of shirt",
+      "answer": "TEE",
+      "theme": false
+    },
+    {
+      "number": 14,
+      "direction": "down",
+      "cells": [
+        25,
+        43,
+        61
+      ],
+      "clue": "Gains during an NFL game, abbr.",
+      "answer": "YDS",
+      "theme": false
+    },
+    {
+      "number": 15,
+      "direction": "across",
+      "cells": [
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ],
+      "clue": "“__ of the [51-down]”; i.e., the underlying laws governing development which can manifest themselves through 51-down",
+      "answer": "NECESSITY",
+      "theme": true
+    },
+    {
+      "number": 15,
+      "direction": "down",
+      "cells": [
+        27,
+        45,
+        63,
+        81,
+        99,
+        117,
+        135,
+        153
+      ],
+      "clue": "Hospital unit that cares for newborns",
+      "answer": "NEONATAL",
+      "theme": false
+    },
+    {
+      "number": 16,
+      "direction": "down",
+      "cells": [
+        31,
+        49,
+        67,
+        85,
+        103,
+        121
+      ],
+      "clue": "Ancient Greek city-state whose enslaved helots eventually won their freedom, dealing a devastating blow to its warrior elites",
+      "answer": "SPARTA",
+      "theme": false
+    },
+    {
+      "number": 17,
+      "direction": "down",
+      "cells": [
+        32,
+        50,
+        68,
+        86,
+        104,
+        122
+      ],
+      "clue": "Reason for icing one’s ankle",
+      "answer": "SPRAIN",
+      "theme": false
+    },
+    {
+      "number": 18,
+      "direction": "across",
+      "cells": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ],
+      "clue": "Raised oneself up",
+      "answer": "UPREARED",
+      "theme": false
+    },
+    {
+      "number": 19,
+      "direction": "across",
+      "cells": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "clue": "The study of Marxist theory is essential for __ revolutionary cadres with the tools necessary to intervene in the class struggle",
+      "answer": "EQUIPPING",
+      "theme": false
+    },
+    {
+      "number": 20,
+      "direction": "across",
+      "cells": [
+        54,
+        55,
+        56,
+        57,
+        58
+      ],
+      "clue": "Math is to mathematics as __ is to arithmetic",
+      "answer": "ARITH",
+      "theme": false
+    },
+    {
+      "number": 21,
+      "direction": "across",
+      "cells": [
+        60,
+        61,
+        62,
+        63
+      ],
+      "clue": "Canadian Hockey Hall-of-Famer Phil __, to his fans",
+      "answer": "ESPO",
+      "theme": false
+    },
+    {
+      "number": 22,
+      "direction": "down",
+      "cells": [
+        62,
+        80,
+        98,
+        116,
+        134
+      ],
+      "clue": "“Your __ being?”",
+      "answer": "POINT",
+      "theme": false
+    },
+    {
+      "number": 23,
+      "direction": "across",
+      "cells": [
+        65,
+        66,
+        67,
+        68
+      ],
+      "clue": "From a distance",
+      "answer": "AFAR",
+      "theme": false
+    },
+    {
+      "number": 24,
+      "direction": "across",
+      "cells": [
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "clue": "Rest atop",
+      "answer": "LIEON",
+      "theme": false
+    },
+    {
+      "number": 25,
+      "direction": "across",
+      "cells": [
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ],
+      "clue": "How Lenin might have appeared to his opponents while delivering one of his more scathing polemics",
+      "answer": "ONATIRADE",
+      "theme": false
+    },
+    {
+      "number": 26,
+      "direction": "down",
+      "cells": [
+        82,
+        100,
+        118,
+        136,
+        154
+      ],
+      "clue": "“I got off to _ __ start this morning, unfortunately”",
+      "answer": "ALATE",
+      "theme": false
+    },
+    {
+      "number": 27,
+      "direction": "down",
+      "cells": [
+        87,
+        105,
+        123,
+        141,
+        159
+      ],
+      "clue": "Girthy battery, often used in large flashlights",
+      "answer": "DCELL",
+      "theme": false
+    },
+    {
+      "number": 28,
+      "direction": "down",
+      "cells": [
+        88,
+        106,
+        124,
+        142,
+        160
+      ],
+      "clue": "__ bird gets the worm",
+      "answer": "EARLY",
+      "theme": false
+    },
+    {
+      "number": 29,
+      "direction": "across",
+      "cells": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "clue": "Cuba y Puerto Rico, por ejemplo",
+      "answer": "ISLAS",
+      "theme": false
+    },
+    {
+      "number": 30,
+      "direction": "across",
+      "cells": [
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107
+      ],
+      "clue": "Describing a method that examines things as interconnected, contradictory, and constantly changing; combined with 67-across, the Marxist worldview",
+      "answer": "DIALECTICAL",
+      "theme": true
+    },
+    {
+      "number": 30,
+      "direction": "down",
+      "cells": [
+        97,
+        115,
+        133
+      ],
+      "clue": "God, to an Italian",
+      "answer": "DIO",
+      "theme": false
+    },
+    {
+      "number": 31,
+      "direction": "down",
+      "cells": [
+        107,
+        125,
+        143,
+        161
+      ],
+      "clue": "Shoestring",
+      "answer": "LACE",
+      "theme": false
+    },
+    {
+      "number": 32,
+      "direction": "across",
+      "cells": [
+        108,
+        109,
+        110,
+        111
+      ],
+      "clue": "No.’s in a phonebook",
+      "answer": "TELS",
+      "theme": false
+    },
+    {
+      "number": 33,
+      "direction": "across",
+      "cells": [
+        114,
+        115,
+        116,
+        117,
+        118
+      ],
+      "clue": "Utah’s __ Mountains",
+      "answer": "UINTA",
+      "theme": false
+    },
+    {
+      "number": 33,
+      "direction": "down",
+      "cells": [
+        114,
+        132,
+        150,
+        168,
+        186
+      ],
+      "clue": "__ of opposites: the [30-across] principle that contradictions are internal to things and processes, driving their [70-down] and development",
+      "answer": "UNITY",
+      "theme": true
+    },
+    {
+      "number": 34,
+      "direction": "across",
+      "cells": [
+        121,
+        122,
+        123,
+        124,
+        125
+      ],
+      "clue": "Once capitalism is overthrown, we can truly say it’s the end of __ __",
+      "answer": "ANERA",
+      "theme": false
+    },
+    {
+      "number": 35,
+      "direction": "across",
+      "cells": [
+        126,
+        127,
+        128,
+        129,
+        130
+      ],
+      "clue": "A gold-rush California town that’s very nearly a palindrome for “bakery” (Or, “Eureka!” but on a license plate or over text)",
+      "answer": "YREKA",
+      "theme": false
+    },
+    {
+      "number": 36,
+      "direction": "down",
+      "cells": [
+        130,
+        148,
+        166
+      ],
+      "clue": "Small battery",
+      "answer": "AAA",
+      "theme": false
+    },
+    {
+      "number": 37,
+      "direction": "across",
+      "cells": [
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138
+      ],
+      "clue": "Wrote down, as a musical score",
+      "answer": "NOTATED",
+      "theme": false
+    },
+    {
+      "number": 38,
+      "direction": "down",
+      "cells": [
+        137,
+        155,
+        173,
+        191,
+        209
+      ],
+      "clue": "Boundaries",
+      "answer": "EDGES",
+      "theme": false
+    },
+    {
+      "number": 39,
+      "direction": "down",
+      "cells": [
+        138,
+        156,
+        174
+      ],
+      "clue": "__ de los Muertos",
+      "answer": "DIA",
+      "theme": false
+    },
+    {
+      "number": 40,
+      "direction": "across",
+      "cells": [
+        141,
+        142,
+        143
+      ],
+      "clue": "Inc. alternative",
+      "answer": "LLC",
+      "theme": false
+    },
+    {
+      "number": 41,
+      "direction": "across",
+      "cells": [
+        148,
+        149,
+        150
+      ],
+      "clue": "__ Khamenei, Supreme Leader of Iran assassinated by Israeli airstrike",
+      "answer": "ALI",
+      "theme": false
+    },
+    {
+      "number": 42,
+      "direction": "down",
+      "cells": [
+        149,
+        167,
+        185
+      ],
+      "clue": "“Malcolm X” director Spike",
+      "answer": "LEE",
+      "theme": false
+    },
+    {
+      "number": 43,
+      "direction": "across",
+      "cells": [
+        153,
+        154,
+        155,
+        156,
+        157
+      ],
+      "clue": "Ushered in through the door",
+      "answer": "LEDIN",
+      "theme": false
+    },
+    {
+      "number": 44,
+      "direction": "down",
+      "cells": [
+        157,
+        175,
+        193
+      ],
+      "clue": "Bulls’ org.",
+      "answer": "NBA",
+      "theme": false
+    },
+    {
+      "number": 45,
+      "direction": "across",
+      "cells": [
+        159,
+        160,
+        161
+      ],
+      "clue": "Caustic chemical used in soap-making",
+      "answer": "LYE",
+      "theme": false
+    },
+    {
+      "number": 46,
+      "direction": "across",
+      "cells": [
+        162,
+        163,
+        164
+      ],
+      "clue": "Key to the left of Q and beneath ~",
+      "answer": "TAB",
+      "theme": false
+    },
+    {
+      "number": 46,
+      "direction": "down",
+      "cells": [
+        162,
+        180,
+        198,
+        216
+      ],
+      "clue": "__ania, island state of Australia and home to the __anian Devil",
+      "answer": "TASM",
+      "theme": false
+    },
+    {
+      "number": 47,
+      "direction": "down",
+      "cells": [
+        163,
+        181,
+        199,
+        217,
+        235
+      ],
+      "clue": "Waters to a Spaniard",
+      "answer": "AGUAS",
+      "theme": false
+    },
+    {
+      "number": 48,
+      "direction": "down",
+      "cells": [
+        164,
+        182,
+        200,
+        218,
+        236
+      ],
+      "clue": "African language group that includes Zulu and Swahili",
+      "answer": "BANTU",
+      "theme": false
+    },
+    {
+      "number": 49,
+      "direction": "across",
+      "cells": [
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "clue": "One of the insurance companies profiting from Americans’ healthcare (or denial thereof)",
+      "answer": "AETNA",
+      "theme": false
+    },
+    {
+      "number": 50,
+      "direction": "down",
+      "cells": [
+        169,
+        187,
+        205,
+        223,
+        241
+      ],
+      "clue": "“Their Eyes Were Watching God” novelist Zora __ Hurston",
+      "answer": "NEALE",
+      "theme": false
+    },
+    {
+      "number": 51,
+      "direction": "down",
+      "cells": [
+        170,
+        188,
+        206,
+        224,
+        242,
+        260,
+        278,
+        296
+      ],
+      "clue": "An apparently chance occurrence that may nevertheless express an underlying 15-across",
+      "answer": "ACCIDENT",
+      "theme": true
+    },
+    {
+      "number": 52,
+      "direction": "across",
+      "cells": [
+        173,
+        174,
+        175
+      ],
+      "clue": "Yap",
+      "answer": "GAB",
+      "theme": false
+    },
+    {
+      "number": 53,
+      "direction": "across",
+      "cells": [
+        180,
+        181,
+        182
+      ],
+      "clue": "Turkish title of respect, e.g., Toronto’s __ Khan Museum",
+      "answer": "AGA",
+      "theme": false
+    },
+    {
+      "number": 54,
+      "direction": "across",
+      "cells": [
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191
+      ],
+      "clue": "Something many people can only afford if their job happens to offer vision insurance",
+      "answer": "EYECARE",
+      "theme": false
+    },
+    {
+      "number": 55,
+      "direction": "down",
+      "cells": [
+        189,
+        207,
+        225,
+        243,
+        261
+      ],
+      "clue": "Genus that geese belong to (or phonetic spelling of the “A” of Q&A?)",
+      "answer": "ANSER",
+      "theme": false
+    },
+    {
+      "number": 56,
+      "direction": "down",
+      "cells": [
+        190,
+        208,
+        226
+      ],
+      "clue": "Sleep phase where dreams happen",
+      "answer": "REM",
+      "theme": false
+    },
+    {
+      "number": 57,
+      "direction": "across",
+      "cells": [
+        193,
+        194,
+        195,
+        196,
+        197
+      ],
+      "clue": "Pet welfare org. since 1866",
+      "answer": "ASPCA",
+      "theme": false
+    },
+    {
+      "number": 58,
+      "direction": "down",
+      "cells": [
+        194,
+        212,
+        230,
+        248,
+        266,
+        284,
+        302,
+        320
+      ],
+      "clue": "Do recon on before making a move (“Let’s __ it __, first”)",
+      "answer": "SCOPEOUT",
+      "theme": false
+    },
+    {
+      "number": 59,
+      "direction": "down",
+      "cells": [
+        195,
+        213,
+        231,
+        249,
+        267,
+        285,
+        303
+      ],
+      "clue": "Marxists observe the underlying __ of phenomena and events, instead of looking at them as isolated or disconnected occurrences",
+      "answer": "PROCESS",
+      "theme": true
+    },
+    {
+      "number": 60,
+      "direction": "down",
+      "cells": [
+        196,
+        214,
+        232,
+        250,
+        268,
+        286,
+        304
+      ],
+      "clue": "Secants’ reciprocals, or the Law of __ (Pythagorean theorem generalization)",
+      "answer": "COSINES",
+      "theme": false
+    },
+    {
+      "number": 61,
+      "direction": "down",
+      "cells": [
+        197,
+        215,
+        233,
+        251,
+        269,
+        287,
+        305
+      ],
+      "clue": "Ethyl __: nail polish remover option",
+      "answer": "ACETATE",
+      "theme": false
+    },
+    {
+      "number": 62,
+      "direction": "across",
+      "cells": [
+        198,
+        199,
+        200,
+        201,
+        202
+      ],
+      "clue": "Jazz composer and leader of the Arkestra jazz band with an Egyptian-inspired name",
+      "answer": "SUNRA",
+      "theme": false
+    },
+    {
+      "number": 63,
+      "direction": "down",
+      "cells": [
+        201,
+        219,
+        237,
+        255,
+        273,
+        291
+      ],
+      "clue": "A feast or supper, in old-fashioned or literary parlance",
+      "answer": "REPAST",
+      "theme": false
+    },
+    {
+      "number": 64,
+      "direction": "down",
+      "cells": [
+        202,
+        220,
+        238,
+        256,
+        274,
+        292
+      ],
+      "clue": "Schoolyard retort to “Am too!”",
+      "answer": "ARENOT",
+      "theme": false
+    },
+    {
+      "number": 65,
+      "direction": "across",
+      "cells": [
+        205,
+        206,
+        207,
+        208,
+        209
+      ],
+      "clue": "Skin blemishes",
+      "answer": "ACNES",
+      "theme": false
+    },
+    {
+      "number": 66,
+      "direction": "across",
+      "cells": [
+        212,
+        213,
+        214,
+        215
+      ],
+      "clue": "Shoe with a “Sport Mode” and Jibbitz",
+      "answer": "CROC",
+      "theme": false
+    },
+    {
+      "number": 67,
+      "direction": "across",
+      "cells": [
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ],
+      "clue": "The recognition that the material world exists independently of human thought; joined with 30-across, the basis for Marxism’s scientific understanding of reality",
+      "answer": "MATERIALISM",
+      "theme": true
+    },
+    {
+      "number": 68,
+      "direction": "down",
+      "cells": [
+        221,
+        239,
+        257,
+        275,
+        293,
+        311
+      ],
+      "clue": "US and Israeli imperialism hoped to turn these citizens against their government, only to produce a rally-around-the-flag effect",
+      "answer": "IRANIS",
+      "theme": false
+    },
+    {
+      "number": 69,
+      "direction": "down",
+      "cells": [
+        222,
+        240,
+        258,
+        276,
+        294,
+        312
+      ],
+      "clue": "Conked out",
+      "answer": "ASLEEP",
+      "theme": false
+    },
+    {
+      "number": 70,
+      "direction": "across",
+      "cells": [
+        229,
+        230,
+        231,
+        232,
+        233
+      ],
+      "clue": "Largest member of the deer family",
+      "answer": "MOOSE",
+      "theme": false
+    },
+    {
+      "number": 70,
+      "direction": "down",
+      "cells": [
+        229,
+        247,
+        265,
+        283,
+        301,
+        319
+      ],
+      "clue": "Engels called this the mode of existence of matter; Trotsky described dialectics as the logic of this",
+      "answer": "MOTION",
+      "theme": true
+    },
+    {
+      "number": 71,
+      "direction": "across",
+      "cells": [
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243
+      ],
+      "clue": "What capitalism did to feudalism, and what socialism must do to capitalism (enter a higher stage while preserving the best elements of what came before)",
+      "answer": "SUPERSEDE",
+      "theme": true
+    },
+    {
+      "number": 72,
+      "direction": "across",
+      "cells": [
+        247,
+        248,
+        249,
+        250,
+        251
+      ],
+      "clue": "Footnote relative of ibid.",
+      "answer": "OPCIT",
+      "theme": false
+    },
+    {
+      "number": 73,
+      "direction": "across",
+      "cells": [
+        255,
+        256,
+        257,
+        258
+      ],
+      "clue": "Super nitpicky",
+      "answer": "ANAL",
+      "theme": false
+    },
+    {
+      "number": 74,
+      "direction": "across",
+      "cells": [
+        260,
+        261,
+        262,
+        263
+      ],
+      "clue": "The Little Mermaid Prince",
+      "answer": "ERIC",
+      "theme": false
+    },
+    {
+      "number": 75,
+      "direction": "down",
+      "cells": [
+        262,
+        280,
+        298
+      ],
+      "clue": "Not online, abbr.",
+      "answer": "IRL",
+      "theme": false
+    },
+    {
+      "number": 76,
+      "direction": "down",
+      "cells": [
+        263,
+        281,
+        299
+      ],
+      "clue": "21st US President; after JAG and before GC",
+      "answer": "CAA",
+      "theme": false
+    },
+    {
+      "number": 77,
+      "direction": "across",
+      "cells": [
+        265,
+        266,
+        267,
+        268,
+        269
+      ],
+      "clue": "“Lovergirl” R&B singer, __ Marie",
+      "answer": "TEENA",
+      "theme": false
+    },
+    {
+      "number": 78,
+      "direction": "across",
+      "cells": [
+        270,
+        271,
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278
+      ],
+      "clue": "Gets wasted (3 words)",
+      "answer": "TIESONEON",
+      "theme": false
+    },
+    {
+      "number": 78,
+      "direction": "down",
+      "cells": [
+        270,
+        288,
+        306
+      ],
+      "clue": "Pranks with rolls, for short (“__ a house”)",
+      "answer": "TPS",
+      "theme": false
+    },
+    {
+      "number": 79,
+      "direction": "down",
+      "cells": [
+        271,
+        289,
+        307
+      ],
+      "clue": "Similar to a 401(k)",
+      "answer": "IRA",
+      "theme": false
+    },
+    {
+      "number": 80,
+      "direction": "down",
+      "cells": [
+        272,
+        290,
+        308
+      ],
+      "clue": "Snakelike fish",
+      "answer": "EEL",
+      "theme": false
+    },
+    {
+      "number": 81,
+      "direction": "down",
+      "cells": [
+        277,
+        295,
+        313
+      ],
+      "clue": "Mama bear, to a Spaniard",
+      "answer": "OSA",
+      "theme": false
+    },
+    {
+      "number": 82,
+      "direction": "across",
+      "cells": [
+        280,
+        281,
+        282,
+        283,
+        284,
+        285,
+        286,
+        287
+      ],
+      "clue": "Old-fashioned household device for listening to broadcasts",
+      "answer": "RADIOSET",
+      "theme": false
+    },
+    {
+      "number": 83,
+      "direction": "down",
+      "cells": [
+        282,
+        300,
+        318
+      ],
+      "clue": "Beats by __",
+      "answer": "DRE",
+      "theme": false
+    },
+    {
+      "number": 84,
+      "direction": "across",
+      "cells": [
+        288,
+        289,
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296
+      ],
+      "clue": "Most beautiful",
+      "answer": "PRETTIEST",
+      "theme": false
+    },
+    {
+      "number": 85,
+      "direction": "across",
+      "cells": [
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305
+      ],
+      "clue": "French publisher of encyclopedias and dictionaries (translates to “the redhead”)",
+      "answer": "LAROUSSE",
+      "theme": false
+    },
+    {
+      "number": 86,
+      "direction": "across",
+      "cells": [
+        306,
+        307,
+        308
+      ],
+      "clue": "Nickname that drops “vatore”",
+      "answer": "SAL",
+      "theme": false
+    },
+    {
+      "number": 87,
+      "direction": "across",
+      "cells": [
+        311,
+        312,
+        313
+      ],
+      "clue": "Place for relaxation and pampering",
+      "answer": "SPA",
+      "theme": false
+    },
+    {
+      "number": 88,
+      "direction": "across",
+      "cells": [
+        318,
+        319,
+        320
+      ],
+      "clue": "Dr. to visit for sinus problems",
+      "answer": "ENT",
+      "theme": false
+    }
+  ],
+  "numbers": {
+    "3": 1,
+    "4": 2,
+    "5": 3,
+    "10": 4,
+    "11": 5,
+    "12": 6,
+    "15": 7,
+    "16": 8,
+    "17": 9,
+    "18": 10,
+    "19": 11,
+    "20": 12,
+    "24": 13,
+    "25": 14,
+    "27": 15,
+    "31": 16,
+    "32": 17,
+    "36": 18,
+    "45": 19,
+    "54": 20,
+    "60": 21,
+    "62": 22,
+    "65": 23,
+    "72": 24,
+    "80": 25,
+    "82": 26,
+    "87": 27,
+    "88": 28,
+    "90": 29,
+    "97": 30,
+    "107": 31,
+    "108": 32,
+    "114": 33,
+    "121": 34,
+    "126": 35,
+    "130": 36,
+    "132": 37,
+    "137": 38,
+    "138": 39,
+    "141": 40,
+    "148": 41,
+    "149": 42,
+    "153": 43,
+    "157": 44,
+    "159": 45,
+    "162": 46,
+    "163": 47,
+    "164": 48,
+    "166": 49,
+    "169": 50,
+    "170": 51,
+    "173": 52,
+    "180": 53,
+    "185": 54,
+    "189": 55,
+    "190": 56,
+    "193": 57,
+    "194": 58,
+    "195": 59,
+    "196": 60,
+    "197": 61,
+    "198": 62,
+    "201": 63,
+    "202": 64,
+    "205": 65,
+    "212": 66,
+    "216": 67,
+    "221": 68,
+    "222": 69,
+    "229": 70,
+    "235": 71,
+    "247": 72,
+    "255": 73,
+    "260": 74,
+    "262": 75,
+    "263": 76,
+    "265": 77,
+    "270": 78,
+    "271": 79,
+    "272": 80,
+    "277": 81,
+    "280": 82,
+    "282": 83,
+    "288": 84,
+    "298": 85,
+    "306": 86,
+    "311": 87,
+    "318": 88
+  },
+  "title": "A Matter of Dialectics",
+  "subtitle": "No. 04 · 18 × 18",
+  "id": "004"
+}
